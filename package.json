@@ -1,0 +1,16 @@
+{
+  "name": "apiCourses",
+  "version": "0.0.1",
+  "description": "API disponibilizando listagem dos cursos.",
+  "main": "apiCourses.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diego Ramos",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "underscore": "~1.5.2",
+    "mysql": "~2.0.0-alpha9",
+    "express": "~3.4.7"
+  }
+}
